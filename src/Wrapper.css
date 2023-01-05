@@ -1,0 +1,12 @@
+.mid{
+    color: white;
+    width: 25vw;
+    height: max-content;
+    border-radius: 0.4rem;
+    margin: auto;
+    background-color: #011e29e1;
+    padding: 1.5rem; 
+}
+.mid:hover{
+    transform: scale(1.03);
+}

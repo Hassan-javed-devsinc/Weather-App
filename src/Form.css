@@ -1,0 +1,38 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.btn {
+  font-family: "Roboto", sans-serif;
+  padding: 0.5rem;
+  width: 5rem;
+  margin: 1rem auto auto auto;
+  background-color: #2b95bff6;
+  color: white;
+  border: none;
+  font-family: "Anybody", cursive;
+  border-radius: 0.3rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.btn:hover {
+  width: 5.3rem;
+  padding: 0.6rem;
+  border: 1px solid #2b95bff6;
+  background-color: white;
+
+  color:#2b95bff6 ;
+}   
+.location {
+  font-family: "Anybody", cursive;
+  padding: 0.5rem;
+  border-radius: 0.3rem;
+  border: none;
+  font-size: 1rem;
+}
+.location:hover {
+  padding: 0.6rem;
+  /* border: 1px solid #2b95bff6; */
+  /* background-color: #2b95bff6; */
+  /* color:white ; */
+}

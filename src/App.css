@@ -1,6 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Anybody&display=swap');
 .App {
   text-align: center;
+  /* background-image:linear-gradient(360deg, #5f465b, #3b3352); ; */
+  background-image: url("./background.jpg");
+  width: 100%;
+  height:100vh;
+  display: flex;
+  /* justify-content: center; */
+  flex-direction: column;
 }
+
 
 .App-logo {
   height: 40vmin;
